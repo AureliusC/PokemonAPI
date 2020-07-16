@@ -1,0 +1,24 @@
+body{
+    background: url(https://i.ytimg.com/vi/NiEABxi8G4U/maxresdefault.jpg) no-repeat fixed;
+    background-size: cover;
+}
+#searchpokiemon{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+}
+#result{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+#pickyourpokemon{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 30px;
+}
